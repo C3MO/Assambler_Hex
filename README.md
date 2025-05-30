@@ -61,3 +61,7 @@ asm _ com\GRAFIK.COM
 ## Dependencies
 - DOS environment (or DOSBox)
 - NASM assembler (included)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
